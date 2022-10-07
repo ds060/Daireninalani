@@ -1,3 +1,1 @@
-# NotOHP
-ilk java projesi
-Not Ortalaması Hesaplama Programı
+dairenin çevresi ve alanı bulma
